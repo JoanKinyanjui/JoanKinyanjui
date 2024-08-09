@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
  
-- 👨‍💻 All of my projects are available at [https://joank.vercel.app/](https://joank.vercel.app/) 
+- 👨‍💻 All of my projects are available at [https://joank.vercel.app/](https://joan-k.com) 
  
 - 💬 Ask me about **React,JavaScript,Node** 
  
