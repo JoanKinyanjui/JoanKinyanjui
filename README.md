@@ -9,7 +9,7 @@
  
 - 📫 How to reach me **kinyanjuijoan52@gmail.com** 
  
-- 📄 Know about my experiences [https://joank.vercel.app/resume](https://joank.vercel.app/resume) 
+- 📄 Know about my experiences [https://joan-k/resume]([https://joank.vercel.app/resume](https://drive.google.com/file/d/1pZnsr-nF51wjTj1RoMpHNBjaXBC2NjKN/view)) 
  
 - ⚡ Fun fact **I love dogs and fashion** 
  
