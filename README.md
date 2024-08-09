@@ -5,7 +5,7 @@
  
 - 👨‍💻 All of my projects are available at [https://joank.vercel.app/](https://joan-k.com) 
  
-- 💬 Ask me about **React,JavaScript,Node** 
+- 💬 Ask me about **React,Next Js and Web3** 
  
 - 📫 How to reach me **kinyanjuijoan52@gmail.com** 
  
